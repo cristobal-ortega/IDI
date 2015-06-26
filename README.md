@@ -3,6 +3,11 @@ IDI - Interaccio i Disseny de Interficies
 
 FIB - GEI 2012
 
+**Dependencies:**  
+Tested on Ubuntu:  
+- libglu1-mesa-dev
+- freeglut3
+- freeglut3-dev
 
 **Author:**  
 Cristóbal Ortega  
